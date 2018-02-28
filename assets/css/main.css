@@ -1962,8 +1962,11 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #3498db;
-		color: #fff !important;
+		 background-color: transparent;
+    color: #fff !important;
+    border-color: #fff;
+    border-width: 1px;
+    border-style: solid;
 	}
 
 		input[type="submit"]:hover,
@@ -1971,7 +1974,11 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #4aa3df;
+			 background-color: transparent;
+    color: #fff !important;
+    border-color: #fff;
+    border-width: 1px;
+    border-style: solid;
 		}
 
 		input[type="submit"]:active,
