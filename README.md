@@ -1,3 +1,3 @@
 # girlshack
 
-https://ananya-agrawal.github.io/girlshack/
+https://ananya.github.io/girlshack/
